@@ -1,0 +1,27 @@
+*** Summary
+
+This folder contains the simualtion codes for the paper "Inverse Optimal Robust Adaptive Controller 
+for Upper Limb Rehabilitation Exoskeletons with Inertia and Load Uncertainties" by Jiamin Wang,
+and Oumar R. Barry (obarry@vt.edu), Deparment of Mechanical Engineering, Virginia Tech.
+
+In the paper, we proposed an inverse optimal robust adaptive controller designed for upper limb 
+rehabilition exoskeleton tracking control under model uncertainties and disturbances. The control
+simulation examples includes a stationary upper limb exoskeleton (Arm4D) and a wearable 
+wrist exoskeleton (TAWE), both of which are presented in the paper. We demonstrate through 
+simulations that the proposed controller can provide stable and reliable trajectory tracking for
+rehabiliation exoskeletons. The proposed controller is also compared with other control algorithms,
+combined with wrist kinematic algorithms, and implemented for termor supression.
+
+The simulation codes containing abovementioned examples are submitted as supplemental files
+for the review of the paper. The simulation details are commented in the scripts, as well as included 
+in the supplemental document:
+	"RA_L_20_1319_Supplemental_Document.pdf"
+The instructions and summary of files are included in the ReadMe.txt. The codes will also be open
+sourced at 
+	https://github.com/VibRoLab-Group/IORAC_Exo
+after the publication of the main paper. We will update the codes for possible future contents and
+corrections.
+
+
+To report errors and technical problems, please feel free to contact the authors (jmechw@vt.edu
+or obarry@vt.edu). Thank you!
